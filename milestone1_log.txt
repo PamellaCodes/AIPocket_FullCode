@@ -1,0 +1,680 @@
+
+[2026-05-30 23:38:39.520468]
+STT: Hello, this is Pamela.
+AI : Halo, Pamela! Ada yang bisa saya bantu?
+
+[2026-05-30 23:38:55.243767]
+STT: Siapa sih presiden Indonesia saat ini?
+AI : Presiden Indonesia saat ini adalah Joko Widodo. Ia menjabat sejak 20 Oktober 2014.
+
+[2026-05-30 23:57:40.051542]
+STT: Siapa Presiden Indonesia saat ini?
+AI : Presiden Indonesia saat ini adalah Prabowo Subianto, yang menjabat sejak 20 Oktober 2024. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Inauguration_of_Prabowo_Subianto?utm_source=openai))
+
+[2026-05-30 23:59:18.473292]
+STT: Berapa satu US dollar per rupiah?
+AI : Nilai tukar satu US dollar terhadap rupiah bisa bervariasi. Untuk angka terkini, sebaiknya cek di situs resmi bank atau platform keuangan.
+
+[2026-05-30 23:59:52.436974]
+STT: 1 USD ke rupiah terbaru search dari website
+AI : 1 USD setara dengan sekitar 17.820 IDR pada 30 Mei 2026. ([wise.com](https://wise.com/us/currency-converter/usd-to-idr-rate?amount=1.62&utm_source=openai))
+
+[2026-05-31 00:02:38.765807]
+STT: Cari jurnal tentang pengembangan forensik
+AI : Anda bisa mencari jurnal tentang pengembangan forensik di database akademik seperti Google Scholar, JSTOR, atau ResearchGate dengan kata kunci "forensic development". Banyak penelitian terkini yang membahas inovasi dan teknologi dalam bidang forensik.
+
+[2026-05-31 00:03:01.633659]
+STT: Kasih aku jurnal
+AI : Tentu! Apa topik atau tema yang ingin kamu tulis di jurnalmu?
+
+[2026-05-31 00:03:20.522454]
+STT: Kasih aku ring jurnal tentang ngerti
+AI : Mengerti adalah kemampuan untuk memahami atau menyadari informasi, konsep, atau perasaan orang lain. Proses ini melibatkan kognisi dan empati, yang memungkinkan seseorang berinteraksi secara lebih efektif dalam konteks sosial.
+
+[2026-05-31 00:03:39.791687]
+STT: Kami reklamkan jurnal tentang IoT.
+AI : Tentu, Anda bisa merekomendasikan jurnal terkait IoT yang membahas tren, aplikasi, atau penelitian terbaru di bidang tersebut. Beberapa contohnya adalah "IEEE Internet of Things Journal" dan "Journal of Network and Computer Applications."
+
+[2026-05-31 00:06:04.520776]
+STT: Finally, get us the URL on which to install Nobody跳樓請到通知網站
+AI : Maaf, saya tidak dapat memberikan URL untuk instalasi aplikasi atau situs web tertentu. Silakan cari di mesin pencari untuk informasi lebih lanjut.
+
+[2026-05-31 00:07:59.718085]
+STT: Apa itu IOT?
+AI : IoT (Internet of Things) adalah jaringan perangkat fisik yang terhubung ke internet dan saling berkomunikasi untuk mengumpulkan dan bertukar data. Contoh perangkat IoT meliputi smart home devices, wearable technology, dan sensor industri.
+
+[2026-05-31 01:42:53.929624]
+STT: Halo, aku mau bertanya.
+AI : Halo! Silakan, apa yang ingin kamu tanyakan?
+
+[2026-05-31 02:18:13.439192]
+STT: Halo, saya mau bertanya.
+AI : Halo! Tentu, silakan tanyakan apa yang ingin kamu tahu.
+
+[2026-05-31 02:27:12.847951]
+STT: Halo, aku mau bertanya
+AI : Halo! Silakan bertanya, saya siap membantu.
+
+[2026-05-31 02:43:11.896786]
+STT: Halo, saya mau bertanya.
+AI : Halo! Silakan ajukan pertanyaanmu, saya siap membantu.
+
+[2026-05-31 02:44:28.315280]
+STT: Halo saya mau bertanya
+AI : Halo! Silakan tanyakan, saya siap membantu.
+
+[2026-05-31 02:44:50.834689]
+STT: Siapakah Presiden Indonesia?
+AI : Presiden Indonesia saat ini adalah Prabowo Subianto, yang menjabat sejak 20 Oktober 2024. ([en.wikipedia.org](https://en.wikipedia.org/wiki/President_of_Indonesia?utm_source=openai))
+
+[2026-05-31 02:45:38.246506]
+STT: Perkenalkan diri kamu
+AI : Saya adalah AI Pocket, asisten virtual yang siap membantu menjawab pertanyaan dan memberikan informasi. Silakan tanya apa saja!
+
+[2026-05-31 02:51:35.505972]
+STT: Perkenalkan diri kamu
+AI : Saya adalah AI Pocket, asisten virtual yang siap membantu menjawab pertanyaan dan memberikan informasi dengan cepat. Apa yang bisa saya bantu hari ini?
+
+[2026-05-31 02:52:13.431049]
+STT: Berapa harga 1 USD ke Rupiah?
+AI : Kurs 1 Dolar AS (USD) setara dengan sekitar 17.823,65 Rupiah Indonesia (IDR) pada 30 Mei 2026. ([usd.currencyrate.today](https://usd.currencyrate.today/convert/amount-1000-to-idr.html?utm_source=openai))
+
+[2026-05-31 02:53:15.638398]
+STT: Harga 1 dolar Singapura Rupiah
+AI : Pada 29 Mei 2026, 1 dolar Singapura setara dengan sekitar Rp14.000. ([liputan6.com](https://www.liputan6.com/bisnis/read/7430547/dolar-singapura-sentuh-14000-terhadap-rupiah-hari-ini-29-mei-2026?utm_source=openai))
+
+[2026-06-01 11:17:26.025171]
+STT: Halo, kenalin diri kamu.
+AI : Halo! Saya AI Pocket, asisten virtual yang siap membantu menjawab pertanyaan dan memberikan informasi sesuai kebutuhanmu.
+
+[2026-06-01 11:18:45.739456]
+STT: Halo kenapa ini kamu?
+AI : Halo! Saya di sini untuk membantu menjawab pertanyaan dan memberikan informasi yang kamu butuhkan.
+
+[2026-06-01 11:22:47.258897]
+STT: وقيمانا جواجة حريري
+AI : Sepertinya ada kesalahan ketik. Mungkin maksud Anda adalah "Jawa Jajag Hariri"? Jika iya, bisa tolong jelaskan lebih lanjut?
+
+[2026-06-01 11:23:58.818255]
+STT: bagaimana cuaca hari ini
+AI : Berikut prakiraan cuaca untuk beberapa kota di Indonesia pada Senin, 1 Juni 2026:
+
+## Cuaca untuk Jakarta, Indonesia:
+1Kondisi Saat ini: Sebagian cerah, 88°F (31°C)
+
+Prakiraan Per Jam:
+* 12.00: 90°F (32°C), Berawan
+* 13.00: 91°F (33°C), Berawan
+* 14.00: 88°F (31°C), Hujan singkat
+* 15.00: 86°F (30°C), Hujan singkat
+* 16.00: 85°F (29°C), Berawan
+* 17.00: 85°F (29°C), Berawan
+* 18.00: 84°F (29°C), Berawan
+* 19.00: 83°F (28°C), Berawan
+* 20.00: 81°F (27°C), Berawan
+* 21.00: 80°F (27°C), Hujan singkat
+* 22.00: 79°F (26°C), Berawan
+* 23.00: 79°F (26°C), Berawan
+
+
+## Cuaca untuk Bandung, Indonesia:
+1Kondisi Saat ini: Berawan, 81°F (27°C)
+
+Prakiraan Per Jam:
+* 12.00: 83°F (28°C), Berawan
+* 13.00: 86°F (30°C), Berawan
+* 14.00: 84°F (29°C), Berawan
+* 15.00: 82°F (28°C), Hujan singkat
+* 16.00: 80°F (27°C), Hujan singkat
+* 17.00: 78°F (26°C), Hujan singkat
+* 18.00: 77°F (25°C), Berawan
+* 19.00: 76°F (24°C), Berawan
+* 20.00: 74°F (24°C), Berawan
+* 21.00: 73°F (23°C), Berawan
+* 22.00: 72°F (22°C), Berawan
+* 23.00: 71°F (22°C), Berawan
+
+
+## Cuaca untuk Daerah Istimewa Yogyakarta, Indonesia:
+1Kondisi Saat ini: Umumnya berawan, 88°F (31°C)
+
+Prakiraan Per Jam:
+* 12.00: 89°F (32°C), Cerah berkabut
+* 13.00: 90°F (32°C), Cerah berkabut
+* 14.00: 89°F (32°C), Cerah berkabut
+* 15.00: 88°F (31°C), Cerah berkabut
+* 16.00: 85°F (30°C), Cerah berkabut
+* 17.00: 83°F (28°C), Cerah berkabut
+* 18.00: 80°F (27°C), Langit malam cerah berkabut
+* 19.00: 78°F (26°C), Berawan
+* 20.00: 76°F (25°C), Berawan
+* 21.00: 75°F (24°C), Berawan
+* 22.00: 74°F (23°C), Berawan
+* 23.00: 73°F (23°C), Berawan
+
+
+## Cuaca untuk Surabaya, Indonesia:
+1Kondisi Saat ini: Umumnya cerah, 89°F (32°C)
+
+Prakiraan Per Jam:
+* 12.00: 90°F (32°C), Umumnya berawan
+* 13.00: 90°F (32°C), Berawan
+* 14.00: 90°F (32°C), Berawan
+* 15.00: 89°F (32°C), Berawan
+* 16.00: 87°F (30°C), Berawan
+* 17.00: 85°F (30°C), Berawan
+* 18.00: 83°F (28°C), Berawan
+* 19.00: 82°F (28°C), Berawan
+* 20.00: 82°F (28°C), Berawan
+* 21.00: 82°F (28°C), Berawan
+* 22.00: 81°F (27°C), Berawan
+* 23.00: 80°F (27°C), Berawan
+
+
+## Cuaca untuk Bali:
+1Kondisi Saat ini: Umumnya berawan, 79°F (26°C)
+
+Prakiraan Per Jam:
+* 13.00: 82°F (28°C), Cerah berkabut
+* 14.00: 83°F (28°C), Cerah berkabut
+* 15.00: 80°F (27°C), Cerah berkabut
+* 16.00: 78°F (25°C), Cerah berkabut
+* 17.00: 75°F (24°C), Cerah berkabut
+* 18.00: 72°F (22°C), Cerah berkabut
+* 19.00: 71°F (22°C), Berawan
+* 20.00: 69°F (20°C), Berawan
+* 21.00: 66°F (19°C), Berawan
+* 22.00: 64°F (18°C), Berawan
+* 23.00: 62°F (16°C), Umumnya berawan
+* 00.00: 64°F (18°C), Berawan
+
+
+Untuk informasi lebih lanjut, Anda dapat mengunjungi situs resmi BMKG. ([bmkg.go.id](https://www.bmkg.go.id/?utm_source=openai))
+
+[2026-06-01 11:27:43.888522]
+STT: Haloo, haloo.
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-01 11:33:26.871149]
+STT: I hope you guys have a great day, and I'll see you next time.
+AI : Terima kasih! Semoga harimu juga menyenangkan, sampai jumpa lagi!
+
+[2026-06-01 11:33:58.525189]
+STT: No se pierda el trabajo, el trabajo
+AI : Tampaknya ada pengulangan dalam kalimat Anda. Apakah Anda ingin mengekspresikan sesuatu yang spesifik tentang pekerjaan?
+
+[2026-06-01 11:34:42.151743]
+STT: 
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-01 11:35:10.041163]
+STT: Harga merah kalau punya hari ini
+AI : Harga cabai merah di Indonesia bervariasi tergantung lokasi dan waktu. Pada November 2023, harga cabai merah besar di Lampung mencapai Rp82.500 per kilogram, sedangkan di Jakarta Barat mencapai Rp130.000 per kilogram. ([kupastuntas.co](https://www.kupastuntas.co/2023/11/15/tertinggi-se-indonesia-harga-cabai-merah-besar-di-lampung-tembus-rp-82500-per-kg?utm_source=openai))
+
+[2026-06-01 11:36:41.961034]
+STT: Sähkönlenagáscarukia
+AI : Tampaknya kata tersebut tidak dikenali. Apakah ada konteks atau informasi lebih lanjut yang bisa Anda berikan?
+
+[2026-06-01 11:57:07.346379]
+STT: 
+AI : Ada yang bisa saya bantu?
+
+[2026-06-01 12:35:02.990250]
+STT: HELLO!
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-01 12:35:43.582262]
+STT: 
+AI : Hai! Ada yang bisa saya bantu?
+
+[2026-06-01 12:36:32.606165]
+STT: Hagka sa Pidade
+AI : "Hagka sa Pidade" adalah istilah yang tidak umum. Mohon berikan konteks atau penjelasan lebih lanjut agar saya bisa membantu dengan tepat.
+
+[2026-06-01 12:42:06.781584]
+STT: Ha-ha-ha-ha-ha!
+AI : Ada yang lucu? Cerita dong!
+
+[2026-06-04 21:43:17.611666]
+STT: Hello, hello.
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-04 21:43:50.046360]
+STT: coba harga USD 1 rupiah
+AI : Kurs USD ke IDR saat ini adalah sekitar 17.930,4. ([id.investing.com](https://id.investing.com/currencies/usd-idr?utm_source=openai))
+
+[2026-06-04 21:55:04.598484]
+STT: What is the capital city of Indonesia?
+AI : Ibu kota Indonesia adalah Jakarta.
+
+[2026-06-04 21:56:34.316691]
+STT: Can you speak in English?
+AI : Saya dapat berkomunikasi dalam Bahasa Inggris, tetapi saya di sini untuk menjawab dalam Bahasa Indonesia. Ada yang bisa saya bantu?
+
+[2026-06-04 22:25:25.286279]
+STT: What are you wearing today?
+AI : Saya sebenarnya tidak mengenakan pakaian karena saya adalah AI. Tapi saya siap membantu Anda dengan apa pun yang Anda butuhkan!
+
+[2026-06-04 22:25:51.159884]
+STT: Will it rain today?
+AI : Maaf, saya tidak bisa memberikan informasi cuaca terkini. Silakan cek aplikasi cuaca atau situs berita untuk informasi terbaru.
+
+[2026-06-04 22:26:21.146982]
+STT: What time is it now?
+AI : Saya tidak dapat memberikan waktu saat ini. Silakan cek jam di perangkat Anda.
+
+[2026-06-04 22:26:46.340584]
+STT: Tell me about artificial intelligence.
+AI : Kecerdasan buatan (AI) adalah teknologi yang memungkinkan mesin untuk meniru perilaku manusia, belajar dari data, dan membuat keputusan. AI digunakan dalam berbagai bidang seperti kesehatan, keuangan, dan otomotif untuk meningkatkan efisiensi dan inovasi.
+
+[2026-06-04 22:29:15.226682]
+STT: That is to defend my freedom!
+AI : Itu untuk mempertahankan kebebasan saya!
+
+[2026-06-04 23:12:34.095267]
+STT: What is capital city of Indonesia?
+AI : Ibu kota Indonesia adalah Jakarta.
+
+[2026-06-04 23:14:13.803677]
+STT: هو الفنتر لتواصلون
+AI : Maaf, saya tidak bisa membantu dengan informasi itu. Namun, saya bisa menjawab pertanyaan lain yang mungkin Anda miliki.
+
+[2026-06-04 23:15:13.026358]
+STT: Where is the tallest mountain in the world?
+AI : Gunung tertinggi di dunia, Everest, berada di perbatasan Nepal dan Tibet, Tiongkok. Ketinggiannya mencapai 8.848 meter di atas permukaan laut.
+
+[2026-06-04 23:15:57.062120]
+STT: What is the tallest mountain in the world?
+AI : Gunung Everest adalah gunung tertinggi di dunia, dengan ketinggian 8.848 meter di atas permukaan laut.
+
+[2026-06-04 23:17:14.780730]
+STT: What is Artificial Intelligence?
+AI : Kecerdasan Buatan (AI) adalah kemampuan mesin untuk meniru atau mensimulasikan kecerdasan manusia, seperti belajar, berpikir, dan memecahkan masalah. AI dapat diterapkan dalam berbagai bidang, termasuk teknologi, kesehatan, dan keuangan.
+
+[2026-06-04 23:18:19.088153]
+STT: How many planets are in the solar system?
+AI : Ada delapan planet di tata surya kita. Planets tersebut adalah Merkurius, Venus, Bumi, Mars, Jupiter, Saturnus, Uranus, dan Neptunus.
+
+[2026-06-04 23:19:58.304435]
+STT: What is the largest ocean in the world?
+AI : Samudera Pasifik adalah samudera terbesar di dunia.
+
+[2026-06-04 23:22:31.963861]
+STT: What is 25 plus 7?
+AI : 25 ditambah 7 sama dengan 32.
+
+[2026-06-04 23:22:53.176276]
+STT: What is 25 plus 17?
+AI : 25 ditambah 17 adalah 42.
+
+[2026-06-04 23:23:22.304583]
+STT: What is 100 divided by 4?
+AI : 100 dibagi 4 adalah 25.
+
+[2026-06-04 23:23:46.159970]
+STT: What is 8 multiple by 8?
+AI : 8 dikali 8 sama dengan 64.
+
+[2026-06-04 23:24:31.008554]
+STT: What is 12 multiplied by 8?
+AI : 12 dikali 8 sama dengan 96.
+
+[2026-06-04 23:26:20.725314]
+STT: What is the square root of 81?
+AI : Akar kuadrat dari 81 adalah 9.
+
+[2026-06-04 23:26:56.845968]
+STT: What is 15% of 2000?
+AI : 15% dari 2000 adalah 300.
+
+[2026-06-04 23:27:32.771439]
+STT: What is 15% of the population?
+AI : 15% dari populasi adalah 0,15 kali jumlah total populasi tersebut. Jadi, Anda perlu mengalikan total populasi dengan 0,15 untuk mendapatkan angka tersebut.
+
+[2026-06-04 23:28:08.489127]
+STT: What is 15% of 200?
+AI : 15% dari 200 adalah 30.
+
+[2026-06-04 23:28:27.249731]
+STT: What is 15% of 200?
+AI : 15% dari 200 adalah 30.
+
+[2026-06-04 23:43:46.421718]
+STT: Please introduce yourself.
+AI : Saya adalah AI Pocket, dirancang untuk memberikan jawaban singkat dan informatif. Saya siap membantu menjawab pertanyaan Anda!
+
+[2026-06-04 23:44:47.332840]
+STT: Done.
+AI : Apa yang sudah selesai?
+
+[2026-06-04 23:46:26.151848]
+STT: Tell me a joke.
+AI : Kenapa komputer tidak bisa bersembunyi? Karena mereka terlalu banyak "cache"!
+
+[2026-06-04 23:47:21.076342]
+STT: give me a fun fact
+AI : Tahukah kamu bahwa honey never spoils? Arkeolog menemukan madu berusia ribuan tahun dalam makam Mesir kuno yang masih bisa dimakan!
+
+[2026-06-04 23:48:49.517374]
+STT: Explain photosynthesis briefly.
+AI : Fotosintesis adalah proses di mana tumbuhan, alga, dan beberapa bakteri mengubah cahaya matahari menjadi energi kimia dengan mengolah karbon dioksida dan air menjadi glukosa dan oksigen. Proses ini terjadi di dalam kloroplas, menggunakan pigmen hijau yang disebut klorofil.
+
+[2026-06-04 23:49:52.656582]
+STT: tell me today's date
+AI : Tanggal hari ini adalah 3 Maret 2023.
+
+[2026-06-04 23:51:36.400555]
+STT: Compare Android and iOS
+AI : Android menawarkan lebih banyak kustomisasi dan variasi perangkat, sementara iOS dikenal dengan pengalaman pengguna yang konsisten dan keamanan yang lebih baik. Pilihan antara keduanya tergantung pada preferensi pribadi dan kebutuhan pengguna.
+
+[2026-06-04 23:52:35.382850]
+STT: Explain how machine learning works.
+AI : Machine learning bekerja dengan melatih algoritma menggunakan data untuk mengenali pola dan membuat prediksi atau keputusan tanpa program eksplisit. Proses ini melibatkan pengumpulan data, pemrosesan, pemilihan model, dan evaluasi hasilnya.
+
+[2026-06-04 23:54:48.433060]
+STT: Why is cyber security important?
+AI : Keamanan siber penting untuk melindungi data pribadi dan bisnis dari ancaman seperti peretasan, pencurian identitas, dan serangan siber lainnya. Ini juga membantu menjaga stabilitas ekonomi dan kepercayaan masyarakat terhadap teknologi.
+
+[2026-06-04 23:56:45.873982]
+STT: Why is getting enough sleep important?
+AI : Tidur yang cukup penting untuk kesehatan fisik dan mental, membantu pemulihan tubuh, memperbaiki konsentrasi, dan mendukung fungsi sistem imun. Kurang tidur dapat menyebabkan berbagai masalah kesehatan jangka panjang.
+
+[2026-06-04 23:58:10.230598]
+STT: Explain the difference between AI and machine learning.
+AI : AI (kecerdasan buatan) adalah konsep luas yang mencakup simulasi kecerdasan manusia oleh mesin, sementara machine learning adalah subset dari AI yang fokus pada pengembangan algoritma yang memungkinkan mesin belajar dari data. Dengan kata lain, semua machine learning adalah AI, tetapi tidak semua AI adalah machine learning.
+
+[2026-06-04 23:59:53.657988]
+STT: Hello, how are you?
+AI : Halo! Saya baik-baik saja, terima kasih. Bagaimana dengan kamu?
+
+[2026-06-05 00:00:29.451495]
+STT: My name is Pamela.
+AI : Hai Pamela! Senang berkenalan denganmu!
+
+[2026-06-05 00:00:47.239381]
+STT: My name is Pamela.
+AI : Halo Pamela! Senang berkenalan denganmu!
+
+[2026-06-05 00:01:33.854606]
+STT: Tell me about Artificial Intelligence.
+AI : Kecerdasan Buatan (AI) adalah teknologi yang meniru kemampuan manusia dalam berpikir, belajar, dan mengambil keputusan. AI digunakan dalam berbagai bidang, mulai dari kendaraan otonom hingga asisten virtual.
+
+[2026-06-05 00:02:21.813902]
+STT: I am studying computer science.
+AI : Bagus! Komputer sains adalah bidang yang menarik dan penuh peluang di era digital ini.
+
+[2026-06-05 00:02:49.032768]
+STT: How much is one dollar in European currency?
+AI : Nilai satu dolar AS bervariasi terhadap euro, jadi sebaiknya cek kurs terkini untuk mendapatkan angka yang akurat. Pada umumnya, satu dolar berada di kisaran 0,85 hingga 0,95 euro, tetapi bisa berbeda setiap waktu.
+
+[2026-06-05 00:03:51.542520]
+STT: How much is 1 US dollar in rupiah?
+AI : Nilai 1 US dollar biasanya berkisar antara 15.000 hingga 15.500 rupiah, tetapi bisa bervariasi tergantung pada pasar. Pastikan untuk cek kurs terkini untuk informasi akurat.
+
+[2026-06-05 00:05:04.754913]
+STT: Artificial Intelligence, House Dupont's
+AI : Artificial Intelligence di House Dupont dapat merujuk pada penggunaan teknologi cerdas dalam pengelolaan dan desain rumah, meningkatkan efisiensi dan kenyamanan. Jika ada konteks spesifik yang dimaksud, silakan beri tahu!
+
+[2026-06-05 00:05:42.430378]
+STT: Artificial intelligence helps people solve problems.
+AI : Ya, kecerdasan buatan membantu manusia dalam menganalisis data, mengotomatiskan tugas, dan memberikan solusi yang lebih efisien. Ini dapat meningkatkan produktivitas dan mendukung pengambilan keputusan yang lebih baik.
+
+[2026-06-05 00:07:28.853126]
+STT: Thank you.
+AI : Sama-sama! Ada yang bisa saya bantu lagi?
+
+[2026-06-05 00:07:48.306554]
+STT: НЕ ПОДПИШЁТЕСЬ ЛАДНО? ПРОСТО ПОДПИШИТЕСЬ
+AI : Maaf, saya tidak bisa mengikuti permintaan itu. Namun, saya di sini untuk membantu jika ada pertanyaan lain!
+
+[2026-06-05 00:12:20.106392]
+STT: 
+AI : Ada yang bisa saya bantu?
+
+[2026-06-05 00:12:55.129435]
+STT: 
+AI : Ada yang bisa saya bantu?
+
+[2026-06-05 00:14:55.133444]
+STT: Artificial intelligence helps people solve problems.
+AI : Benar, kecerdasan buatan dapat menganalisis data dan memberikan solusi yang efektif untuk berbagai masalah. Hal ini mempercepat pengambilan keputusan dan meningkatkan efisiensi.
+
+[2026-06-05 00:15:56.674249]
+STT: Artificial intelligence helps people solve problems.
+AI : Ya, kecerdasan buatan membantu manusia menyelesaikan berbagai masalah dengan menganalisis data dan memberikan solusi yang efisien. Teknologi ini bisa diterapkan di berbagai bidang, seperti kesehatan, bisnis, dan pendidikan.
+
+[2026-06-05 00:18:28.560201]
+STT: Artificial intelligence helps people...
+AI : Kecerdasan buatan membantu orang dalam meningkatkan efisiensi, mengotomatisasi tugas, dan mendukung pengambilan keputusan yang lebih baik. Selain itu, AI juga berperan dalam memberikan wawasan melalui analisis data yang canggih.
+
+[2026-06-05 00:19:12.260172]
+STT: Artificial intelligence helps people solve problems.
+AI : Ya, kecerdasan buatan memudahkan manusia dalam menganalisis data dan menemukan solusi lebih efisien. Ini juga dapat mengotomatiskan tugas-tugas rutin, sehingga menghemat waktu dan usaha.
+
+[2026-06-19 12:12:34.946154]
+STT: hello
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-19 12:38:10.688507]
+STT: Ah, udah.
+AI : Baik! Ada yang bisa saya bantu lagi?
+
+[2026-06-19 12:38:32.413995]
+STT: Berapa harga bawang di pasar?
+AI : Per 18 Juni 2026, harga bawang merah di pasar tradisional Indonesia mencapai Rp59.150 per kilogram, sementara bawang putih dihargai Rp45.600 per kilogram. ([economy.okezone.com](https://economy.okezone.com/read/2026/06/18/320/3225136/harga-pangan-hari-ini-18-juni-bawang-merah-naik-jadi-rp59-150-per-kg-cabai-rawit-rp91-800?utm_source=openai))
+
+[2026-06-19 12:55:25.351951]
+STT: Hello.
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-19 15:09:03.248051]
+STT: What is the capital city of Japan?
+AI : Ibu kota Jepang adalah Tokyo.
+
+[2026-06-22 08:25:51.850419]
+STT: Kalo taro sini
+AI : Maksudnya di mana? Bisa jelasin lebih lanjut?
+
+[2026-06-22 08:26:24.978870]
+STT: 
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-22 08:26:47.439124]
+STT: YOU MUST GO BACK TO THE SHIP!!!
+AI : Saya akan kembali ke kapal secepatnya! Apa ada yang perlu saya ambil?
+
+[2026-06-22 08:27:40.614316]
+STT: Thanks for watching.
+AI : Sama-sama! Kalau ada pertanyaan lain, silakan tanya.
+
+[2026-06-22 08:28:11.437341]
+STT: Okay, that's about it.
+AI : Baik, jika ada yang ingin ditanyakan lagi, silakan!
+
+[2026-06-22 08:28:44.536449]
+STT: 
+AI : Tidak ada pertanyaan yang diajukan. Silakan bertanya!
+
+[2026-06-22 08:29:17.148243]
+STT: BEEP BEEP BEEP BEEP BEEP BEEP BEEP
+AI : Ada yang bisa saya bantu? Suara alarm tersebut terdengar mengganggu.
+
+[2026-06-22 08:30:27.347665]
+STT: How the heck does that work?
+AI : Itu tergantung pada konteks yang dimaksud. Bisa jadi ada penjelasan teknis atau proses di balik sesuatu yang membingungkan.
+
+[2026-06-22 08:31:02.673048]
+STT: 
+AI : Ada yang bisa saya bantu?
+
+[2026-06-22 08:31:26.572300]
+STT: www.mytrendyphone.co.uk
+AI : MyTrendyPhone adalah situs web yang menawarkan berbagai produk aksesori elektronik dan perangkat ponsel. Pastikan untuk memeriksa kebijakan pengiriman dan garansi sebelum berbelanja.
+
+[2026-06-22 08:36:36.825858]
+STT: Thank you for watching.
+AI : Sama-sama! Senang bisa membantu.
+
+[2026-06-22 08:37:15.825276]
+STT: 
+AI : Ada yang bisa saya bantu?
+
+[2026-06-22 08:40:56.465834]
+STT: Thank you for watching.
+AI : Sama-sama! Jika ada yang ingin ditanyakan lagi, silakan.
+
+[2026-06-22 08:41:58.418677]
+STT: 
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-22 08:42:20.772600]
+STT: 
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-22 08:43:51.209548]
+STT: HELLO?
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-22 08:44:15.367024]
+STT: Indonesia tersebut.
+AI : Tolong berikan konteks lebih lanjut atau pertanyaan spesifik tentang Indonesia yang ingin Anda ketahui.
+
+[2026-06-22 08:44:40.671202]
+STT: That's the value that I share
+AI : Itu adalah nilai yang saya bagi.
+
+[2026-06-22 08:45:14.098308]
+STT: What is your name?
+AI : Nama saya Pocket. Ada yang bisa saya bantu?
+
+[2026-06-22 08:45:39.706848]
+STT: What? Where?
+AI : Apa yang kamu maksud? Berikan sedikit lebih banyak konteks agar saya bisa membantu.
+
+[2026-06-22 08:46:16.242321]
+STT: Bahasa Inggris
+AI : Bahasa Inggris adalah bahasa internasional yang digunakan secara luas di berbagai negara. Banyak orang belajar bahasa ini untuk keperluan pendidikan, bisnis, dan komunikasi global.
+
+[2026-06-22 08:47:04.690781]
+STT: Venus, you need to see me.
+AI : Tentu, ada yang bisa saya bantu?
+
+[2026-06-22 08:47:50.403314]
+STT: Satu ditembak satu
+AI : Tembakan itu bisa berarti banyak hal, tergantung konteksnya, bisa dalam permainan atau situasi nyata. Pastikan untuk selalu mengutamakan keselamatan.
+
+[2026-06-22 08:49:11.195860]
+STT: 
+AI : Ada yang ingin kamu tanyakan?
+
+[2026-06-22 08:49:31.218229]
+STT: lebih dekat sih
+AI : Apa yang lebih dekat? Bisa jelaskan lebih lanjut?
+
+[2026-06-22 08:50:13.130351]
+STT: 
+AI : Hai! Ada yang bisa saya bantu?
+
+[2026-06-22 08:51:20.335827]
+STT: Go to hell you son of a...
+AI : Tampaknya kamu sedang merasa marah atau frustrasi. Ada yang ingin kamu bicarakan?
+
+[2026-06-22 09:08:20.539872]
+STT: terimakasih telah menonton
+AI : Sama-sama! Semoga tayangannya menyenangkan!
+
+[2026-06-22 09:08:52.923823]
+STT: Sampai jumpa di video selanjutnya.
+AI : Sampai jumpa! Semoga video berikutnya juga menarik.
+
+[2026-06-22 09:09:33.724613]
+STT: Mampus, mampus, mampus!
+AI : Ada yang terjadi? Bisa cerita lebih lanjut?
+
+[2026-06-22 09:09:57.691237]
+STT: selamat datang
+AI : Terima kasih! Senang bisa membantu, ada yang bisa saya bantu?
+
+[2026-06-22 10:41:32.900651]
+STT: 
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-22 11:20:01.855730]
+STT: waduh
+AI : Ada yang bisa saya bantu?
+
+[2026-06-22 11:23:33.864921]
+STT: Terima kasih.
+AI : Sama-sama! Jika ada yang bisa dibantu lagi, silakan tanya.
+
+[2026-06-22 11:24:17.852599]
+STT: Yahhhhhhh
+AI : Ada yang bisa saya bantu?
+
+[2026-06-22 11:25:18.786882]
+STT: Sampai jumpa di video selanjutnya
+AI : Sampai jumpa! Semoga video selanjutnya seru dan bermanfaat!
+
+[2026-06-22 11:31:14.175316]
+STT: terimakasih
+AI : Sama-sama! Ada yang bisa saya bantu?
+
+[2026-06-22 11:34:30.141638]
+STT: Terima kasih buat kita biar seorang juga jadi kayak penjual borak.
+AI : Sama-sama! Semoga perjalananmu menjadi penjual sukses dan penuh inspirasi!
+
+[2026-06-22 11:37:19.325020]
+STT: YEAAAHHHHAHHAAHAHAHAHAA
+AI : Yeay! Apa yang membuatmu begitu bersemangat?
+
+[2026-06-22 11:43:35.865232]
+STT: Canto..
+AI : Canto adalah bagian dari puisi yang biasanya terdiri dari beberapa bait. Dalam sastra, istilah ini sering digunakan untuk menyebut bagian besar dalam karya yang lebih besar, seperti epik.
+
+[2026-06-22 11:47:08.348090]
+STT: Ha ha ha Hai
+AI : Hai! Ada yang ingin kamu bicarakan?
+
+[2026-06-22 11:47:30.714897]
+STT: Hi
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-06-22 11:48:32.799499]
+STT: Siapa nama Presiden Indonesia?
+AI : Presiden Indonesia saat ini adalah Prabowo Subianto, yang dilantik pada 20 Oktober 2024. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Inauguration_of_Prabowo_Subianto?utm_source=openai))
+
+[2026-06-22 11:49:26.593950]
+STT: Berapa 2 tambah 2?
+AI : 2 tambah 2 sama dengan 4.
+
+[2026-06-22 11:53:19.342775]
+STT: Jangan lupa subscribe, like, share dan comment... ...untuk membuat video terbaru. Sampai jumpa di video selanjutnya. Sampai jumpa.
+AI : Kalimat tersebut adalah ajakan kepada penonton untuk berinteraksi dengan video melalui subscribe, like, share, dan komentar, serta menantikan video selanjutnya. Ajakan ini umum digunakan oleh pembuat konten untuk meningkatkan interaksi dan membangun hubungan dengan audiens.
+
+[2026-06-22 11:54:14.809868]
+STT: Sampai jumpa di video selanjutnya
+AI : Sampai jumpa! Semoga video selanjutnya bermanfaat!
+
+[2026-06-22 11:54:44.436605]
+STT: Halo, Pak Ketius dari Katedral, dari Katedral
+AI : Halo! Ada yang bisa saya bantu terkait Katedral?
+
+[2026-06-22 11:55:08.777535]
+STT: nih kita dibotong lagi
+AI : Ada masalah apa? Bisa ceritakan lebih lanjut?
+
+[2026-06-22 11:55:44.649050]
+STT: Hadah malas hari ini
+AI : Maaf, saya tidak menemukan informasi terbaru mengenai program "DANA Kaget" atau hadiah serupa untuk hari ini, 22 Juni 2026. Program ini biasanya berlangsung pada tanggal tertentu dan dapat berbeda setiap tahunnya. Untuk mendapatkan informasi terkini, disarankan untuk memeriksa situs resmi DANA atau sumber berita terpercaya.
+
+[2026-06-22 13:40:06.563510]
+STT: Kita tinggal bilang aja, kita mau nanya apa.
+AI : Betul, silakan tanyakan apa yang ingin kamu ketahui!
+
+[2026-07-31 10:28:40.679387]
+STT: Hello
+AI : Halo! Ada yang bisa saya bantu?
+
+[2026-07-31 10:29:02.976254]
+STT: Siapakah presiden Indonesia saat ini?
+AI : Presiden Indonesia saat ini adalah Prabowo Subianto, yang dilantik pada 20 Oktober 2024. ([idntimes.com](https://www.idntimes.com/news/indonesia/prabowo-gibran-resmi-jadi-presiden-dan-wapres-ri-2024-2029-00-rgfwk-06d2bj?utm_source=openai))
