@@ -6,7 +6,7 @@ import datetime
 
 app = Flask(__name__)
 
-client = OpenAI(api_key="API_KEY")
+client = OpenAI(api_key="API_KEY") #Isi dengan API Key OpenAI atau minta KEYnya 
 
 
 def save_test_log(stt_text, ai_answer):
